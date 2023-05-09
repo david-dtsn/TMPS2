@@ -1,0 +1,3 @@
+1.LibraryManager e singleton, cum aflam?
+in constructor avem un if else, in care verifica daca a mai fost vreo instanta
+tot ce e in libraryManager e ca adaugaCart si altele sunt metode
